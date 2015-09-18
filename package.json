@@ -1,0 +1,27 @@
+{
+  "name": "express-student-sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpannell/express-student-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpannell/express-student-sample/issues"
+  },
+  "homepage": "https://github.com/wpannell/express-student-sample#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.2",
+    "supertest": "^1.1.0"
+  }
+}
