@@ -1,5 +1,8 @@
 {
   "application": {
     "name": "vision"
+  },
+  "express": {
+    "port": 3000
   }
 }
