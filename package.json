@@ -20,9 +20,12 @@
   },
   "homepage": "https://github.com/wpannell/express-student-sample#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "nconf": "^0.7.2"
   },
   "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-as-promised": "^5.1.0",
     "istanbul": "^0.3.20",
     "mocha": "^2.3.2",
     "supertest": "^1.1.0"
